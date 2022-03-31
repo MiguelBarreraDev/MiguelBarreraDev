@@ -1,11 +1,14 @@
 <div align="center">
 <img src='https://user-images.githubusercontent.com/82726832/161098390-ab36a887-d503-4365-9a58-a24e4192029a.png'>
+  
 
-</div>
+
 <h3 align="center"> Hi there 👋, I'm Miguel<h3>
-
-
-
+<ul>
+<a href='https://github.com/MiguelBarreraDev/github-readme-stats' ><img src='https://github-readme-stats.vercel.app/api?username=MiguelBarreraDev&count_private=true&show_icons=true&theme=onedark'></a>
+<a href='https://github.com/MiguelBarreraDev/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelBarreraDev&layout=compact' height='195px'/></a>
+</ul>
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
