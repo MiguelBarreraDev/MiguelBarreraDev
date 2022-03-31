@@ -1,9 +1,6 @@
-### Hi there 👋
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGj_Jq1i9z6LA/profile-displaybackgroundimage-shrink_350_1400/0/1644971280780?e=1654128000&v=beta&t=9PgoAQ4Mp3Vr2go5bvKDLHuCWDQVJR0KdgkGN1zoPKM">
+<h3 align="center"> Hi there 👋<h3>
 
-<!--
-**MiguelBarreraDev/MiguelBarreraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
