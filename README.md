@@ -7,7 +7,7 @@
 </div>
 
 ```javascript
-let aboutMe = {
+const aboutMe = {
   name: 'Miguel Angel',
   technologies: {
     frontend: ['React', 'JavaScript', 'Html', 'Css', 'Figma'],
