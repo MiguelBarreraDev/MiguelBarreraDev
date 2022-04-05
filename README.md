@@ -3,7 +3,7 @@
   
 
 
-<h3 align="center">I am Web Development ♥<h3>
+<h3 align="center">I am Web Developer ♥<h3>
 </div>
 
 ```javascript
