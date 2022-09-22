@@ -33,7 +33,7 @@ const aboutMe = {
   <img src='https://github-readme-stats.vercel.app/api?username=MiguelBarreraDev&count_private=true&show_icons=true&theme=tokyonight' height='195px'/>
   </a>
 <a href='https://github.com/MiguelBarreraDev'>
-  <img src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiguelBarreraDev&layout=compact&langs_count=8&theme=react' height='195px'/>
+  <img src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiguelBarreraDev&layout=compact&langs_count=8&theme=tokyonight' height='195px'/>
 </a>
 </ul>
 <!---
