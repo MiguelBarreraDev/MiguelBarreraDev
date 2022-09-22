@@ -46,7 +46,7 @@ const aboutMe = {
 
 <p align="center">
 <a target='_blank' href="https://linkedin.com/in/miguel-barrera-dev"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a target='_blank' href="mailto:barrera.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a target='_blank' href="mailto:barrera.dev23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a target='_blank' href="https://instagram.com/soymigue23"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 <!---
