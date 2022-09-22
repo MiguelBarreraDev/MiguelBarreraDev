@@ -17,20 +17,20 @@ const aboutMe = {
 ### 🛠 &nbsp; Popular repositories
 <!--&theme=tokyonight-->
 <ul align='center'>
-  <a href='https://github.com/MiguelBarreraDev/AirBnB_clone'><img src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelBarreraDev&repo=AirBnB_clone&theme=aura'></a>
-  <a href='https://github.com/MiguelBarreraDev/MergeSortAnimation'><img src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelBarreraDev&repo=MergeSortAnimation&theme=aura'></a>
-  <a href='https://github.com/MiguelBarreraDev/printf'><img src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelBarreraDev&repo=printf&theme=aura'></a>
-  <a href='https://github.com/MiguelBarreraDev/simple_shell'><img src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelBarreraDev&repo=simple_shell&theme=aura'></a>
+  <a href='https://github.com/MiguelBarreraDev/AirBnB_clone'><img src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelBarreraDev&repo=AirBnB_clone&theme=react'   width='400px'></a>
+  <a href='https://github.com/MiguelBarreraDev/MergeSortAnimation'><img src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelBarreraDev&repo=MergeSortAnimation&theme=react'  width='400px'></a>
+  <a href='https://github.com/MiguelBarreraDev/printf'><img src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelBarreraDev&repo=printf&theme=react'  width='400px'></a>
+  <a href='https://github.com/MiguelBarreraDev/simple_shell'><img src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelBarreraDev&repo=simple_shell&theme=react'  width='400px'></a>
 </ul>
 
   
 ### ⚙️ &nbsp;GitHub Analytics
 <ul align='center'>
 <a href='https://github.com/MiguelBarreraDev'>
-  <img src='https://github-readme-stats.vercel.app/api?username=MiguelBarreraDev&count_private=true&show_icons=true&theme=tokyonight' height='195px'/>
+  <img src='https://github-readme-stats.vercel.app/api?username=MiguelBarreraDev&count_private=true&show_icons=true&theme=react' height='195px'/>
   </a>
 <a href='https://github.com/MiguelBarreraDev'>
-  <img src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiguelBarreraDev&layout=compact&langs_count=8&theme=tokyonight' height='195px'/>
+  <img src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiguelBarreraDev&layout=compact&langs_count=8&theme=react' height='195px'/>
 </a>
 </ul>
 
