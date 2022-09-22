@@ -30,10 +30,10 @@ const aboutMe = {
 <h3>Metrics</h3>
 <ul align='center'>
 <a href='https://github.com/MiguelBarreraDev'>
-  <img src='https://github-readme-stats.vercel.app/api?username=MiguelBarreraDev&count_private=true&show_icons=true&theme=tokyonight' height='195px' width='450px'>
+  <img src='https://github-readme-stats.vercel.app/api?username=MiguelBarreraDev&count_private=true&show_icons=true&theme=tokyonight' height='195px'/>
   </a>
 <a href='https://github.com/MiguelBarreraDev'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelBarreraDev&layout=compact&theme=tokyonight' height='195px' width='450px'/>
+  <img src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiguelBarreraDev&layout=compact&theme=tokyonight' height='195px'/>
 </a>
 </ul>
 <!---
