@@ -20,7 +20,7 @@ const aboutMe = {
   <a href='https://github.com/MiguelBarreraDev/AirBnB_clone'><img src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelBarreraDev&repo=AirBnB_clone&theme=tokyonight'></a>
   <a href='https://github.com/MiguelBarreraDev/MergeSortAnimation'><img src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelBarreraDev&repo=MergeSortAnimation&theme=tokyonight'></a>
   <a href='https://github.com/MiguelBarreraDev/printf'><img src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelBarreraDev&repo=printf&theme=tokyonight'></a>
-  <a href='https://github.com/MiguelBarreraDev/simple_shell'><img src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelBarreraDev&repo=simple_shell&theme=tokyonight'></a>
+  <a href='https://github.com/MiguelBarreraDev/simple_shell'><img src='https://github-readme-stats.vercel.app/api/pin/?username=MiguelBarreraDev&repo=simple_shell&theme=dracula'></a>
 </ul>
 
   
