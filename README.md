@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">Hey there!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I'm Web Developer </h2>
+  <h2 align="center">Hey There!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> I'm Web Developer </h2>
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
